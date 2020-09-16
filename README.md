@@ -12,6 +12,7 @@ Tables and forms are a very common way to organize information in structured doc
 
 # Presentation
 https://agabhi017.github.io/Table-Reading-Understanding-and-Extraction/
+(Alternatively, please look for 'Presentation.pdf' if the page takes longer to load)
 
 # Demo
 https://www.youtube.com/watch?v=btkYKrPptbE
