@@ -15,3 +15,5 @@ https://agabhi017.github.io/Table-Reading-Understanding-and-Extraction/
 
 # Demo
 https://www.youtube.com/watch?v=btkYKrPptbE
+
+# The solution was presented at Axis Bank AI Hackathon and Synd-iNNOvate
