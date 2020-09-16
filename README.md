@@ -10,5 +10,8 @@ Tables and forms are a very common way to organize information in structured doc
 • pytesseract (Tesseract OCR engine) 
 • pdf2image
 
+# Presentation
+https://agabhi017.github.io/Table-Reading-Understanding-and-Extraction/
+
 # Demo
 https://www.youtube.com/watch?v=btkYKrPptbE
