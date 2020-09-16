@@ -5,9 +5,16 @@ Tables and forms are a very common way to organize information in structured doc
 # Methodology
 The whole process from taking the input to table extraction can be broken down in to following simpler steps: 
 #### 1. Pre-processing 
-• Image scaling and Skew correction • Binarizing • Identification and dilation of ruling lines • Storing and replacing the ruling lines with foreground pixels • Identification of connected components and labelling • Statistics such as mean/median of character height/gap etc. • Noise reduction
+• Image scaling and Skew correction \
+• Binarizing \
+• Identification and dilation of ruling lines \
+• Storing and replacing the ruling lines with foreground pixels \
+• Identification of connected components and labelling \
+• Statistics such as mean/median of character height/gap etc. \
+• Noise reduction
 #### 2. Formation of text blocks (coalesce different components/pixels/characters into one text block)
-• Identify whether or not the connected components are in the same line • Finding consecutive components of each of the connected components
+• Identify whether or not the connected components are in the same line \
+• Finding consecutive components of each of the connected components
 #### 3. Table detection
 Identifying possible candidate text lines which can form a part of the table
 #### 4. Table extraction
