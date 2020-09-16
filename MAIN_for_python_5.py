@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Nov 21 22:23:24 2018
-
-@author: Akash Singh
-"""
 
 import PDF_2_JPG
 import numpy as np
