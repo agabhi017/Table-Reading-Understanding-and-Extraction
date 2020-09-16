@@ -12,7 +12,7 @@ Tables and forms are a very common way to organize information in structured doc
 
 # Presentation
 https://agabhi017.github.io/Table-Reading-Understanding-and-Extraction/ \
-(Alternatively, please look for 'Presentation.pdf' if the page takes longer to load)
+(Alternatively, please look for 'Presentation.pdf' in the main repository if the page takes longer to load)
 
 ### The solution was presented at Axis Bank AI Hackathon and SYND-iNNOVATE (Syndicate Bank Hackathon)
 
