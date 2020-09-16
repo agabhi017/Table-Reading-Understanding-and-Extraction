@@ -4,19 +4,19 @@ Tables and forms are a very common way to organize information in structured doc
 
 # Methodology
 The whole process from taking the input to table extraction can be broken down in to following simpler steps: 
-1. Pre-processing \
-2. Formation of text blocks \
-3. Table detection \
-4. Table extraction \
+1. Pre-processing
+2. Formation of text blocks
+3. Table detection
+4. Table extraction
 
 # Main Frameworks/Tools used 
-• Numpy
-• PIL 
-• Scipy 
-• cv2 
-• glob 
-• pytesseract (Tesseract OCR engine) 
-• pdf2image
+• Numpy \
+• PIL \
+• Scipy \
+• cv2 \
+• glob \
+• pytesseract (Tesseract OCR engine) \
+• pdf2image \
 
 # Presentation
 https://agabhi017.github.io/Table-Reading-Understanding-and-Extraction/ \
