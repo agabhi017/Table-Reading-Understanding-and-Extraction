@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Nov 22 21:54:10 2018
 
-@author: Akash Singh
-"""
 import DOC_2_PDF
 from DOC_2_PDF import total_word_file
 import shutil
