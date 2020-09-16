@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Nov 27 03:38:25 2018
-
-@author: Akash Singh
-"""
-
 
 import win32com.client
 import glob
